@@ -1,0 +1,23 @@
+{
+  "name": "libmw",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prem",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "date-and-time": "^0.12.0",
+    "dateformat": "^3.0.3",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.2",
+    "nodemon": "^2.0.2",
+    "npm": "^6.13.7",
+    "printf": "^0.5.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
